@@ -43,7 +43,7 @@ Contact matthewf@allenai.org with questions.
 Cite this dataset and the source datasets (see `sources.bib`). 
 
 ```bib
-@INPROCEEDINGS{Hosseini14learningto,
+@INPROCEEDINGS{Mishra2022Lila,
   author = {
     Swaroop Mishra 
       and Matthew Finlayson 
