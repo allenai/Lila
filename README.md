@@ -2,11 +2,15 @@
 
 A unified benchmark for math reasoning.
 
-The `lila` directory contains the data for the Lila benchmark.
-The `original` directory contains the data used in the paper. 
-This data is lower quality, but we include it for reproducibility.
+The `original` directory contains the data used in the Lila paper. 
+We include it for reproducibility.
+The `lila` directory contains the data for the official Lila benchmark, 
+which has undergone quality improvements since the paper.
 
-Please contact matthewf@allenai.org for questions
+You will need [git-lfs](https://git-lfs.github.com/) to clone these, 
+or you can download them manually (e.g., `lila.zip > download`).
+
+Please contact matthewf@allenai.org with questions.
 
 ```
 ├── README.md
@@ -26,10 +30,11 @@ Please contact matthewf@allenai.org for questions
     ├── all
     │   └── *.json
     ├── multi
-    │   ├── multi_dev_iid.json
-    │   ├── multi_test_iid.json
-    │   ├── multi_test_ood.json
-    │   └── multi_train_iid.json
+    │   └── ...
+    ├── single
+    │   └── ...
+    ├── cross
+    │   └── ...
     └── robust
         ├── original.json
         └── perturbed.json
