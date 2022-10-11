@@ -50,7 +50,6 @@ Cite this dataset and the source datasets (see `sources.bib`).
       and Pan Lu 
       and Leonard Tang 
       and Sean Welleck 
-      and Sean Welleck 
       and Chitta Baral 
       and Tanmay Rajpurohit 
       and Oyvind Tafjord 
