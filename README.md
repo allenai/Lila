@@ -12,6 +12,9 @@ or you can download them manually (e.g., `lila.zip > download`).
 
 Contact matthewf@allenai.org with questions.
 
+Do you have a math reasoning dataset that you would like to contribute?
+Open an issue, or email matthewf@allenai.org and we will work with you to incorporate it!
+
 Cite this dataset and the source datasets (see `sources.bib`). 
 
 ```bib
